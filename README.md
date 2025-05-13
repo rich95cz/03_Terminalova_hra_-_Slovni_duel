@@ -26,10 +26,11 @@
 python main.py
 ```
 
-Při spuštění hráč zadá své jméno a volí herní režim. Hra pracuje čistě v příkazové řádce.
+   Při spuštění hráč zadá své jméno a volí herní režim. Hra pracuje čistě v příkazové řádce.
 
-Barevné výstupy jsou zajištěny pomocí knihovny colorama.
-Výsledky jsou ukládány do vysledky.csv a hráč může zobrazit aktuální leaderboard.
+   Barevné výstupy jsou zajištěny pomocí knihovny colorama.
+
+   Výsledky jsou ukládány do vysledky.csv a hráč může zobrazit aktuální leaderboard.
 
 ## 📂 Soubory v projektu
 
@@ -39,9 +40,9 @@ Výsledky jsou ukládány do vysledky.csv a hráč může zobrazit aktuální le
 
 ## 🔧 Instalace závislostí
 
-Před spuštěním doporučujeme nainstalovat potřebné knihovny:
+   Před spuštěním doporučujeme nainstalovat potřebné knihovny:
 
-pip install colorama
+   pip install colorama
 
 ## 💡 Možnosti rozšíření
 
