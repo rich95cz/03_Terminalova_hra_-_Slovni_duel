@@ -26,44 +26,44 @@
 python main.py
 ```
 
-   Při spuštění hráč zadá své jméno a volí herní režim. Hra pracuje čistě v příkazové řádce.
+- Při spuštění hráč zadá své jméno a volí herní režim. Hra pracuje čistě v příkazové řádce.
 
-   Barevné výstupy jsou zajištěny pomocí knihovny colorama.
+- Barevné výstupy jsou zajištěny pomocí knihovny colorama.
 
-   Výsledky jsou ukládány do vysledky.csv a hráč může zobrazit aktuální leaderboard.
+- Výsledky jsou ukládány do vysledky.csv a hráč může zobrazit aktuální leaderboard.
 
 ## 📂 Soubory v projektu
 
-    main.py – hlavní soubor s logikou hry
+- main.py – hlavní soubor s logikou hry
 
-    vysledky.csv – automaticky generovaný soubor s výsledky
+- vysledky.csv – automaticky generovaný soubor s výsledky
 
 ## 🔧 Instalace závislostí
 
-   Před spuštěním doporučujeme nainstalovat potřebné knihovny:
+- Před spuštěním doporučujeme nainstalovat potřebné knihovny:
 
-   pip install colorama
+- pip install colorama
 
 ## 💡 Možnosti rozšíření
 
-    Uložení celého slovníku do .json souboru
+- Uložení celého slovníku do .json souboru
 
-    Více úrovní obtížnosti
+- Více úrovní obtížnosti
 
-    Počet výher/proher ve statistikách
+- Počet výher/proher ve statistikách
 
-    Možnost více kol v rámci jedné hry
+- Možnost více kol v rámci jedné hry
 
 ## ✅ Ukázkové dovednosti
 
 Projekt ukazuje:
 
-    práci s uživatelským vstupem
+- práci s uživatelským vstupem
 
-    strukturování kódu pomocí funkcí
+- strukturování kódu pomocí funkcí
 
-    zápis a čtení CSV souborů
+- zápis a čtení CSV souborů
 
-    použití knihovny colorama pro zlepšení UI
+- použití knihovny colorama pro zlepšení UI
 
-    jednoduché třídění a výpis leaderboardu
+- jednoduché třídění a výpis leaderboardu
