@@ -53,7 +53,7 @@ def zobraz_uvod():
 
 def ziskej_volbu():
     # Zjišťuje, jakou hru chce uživatel hrát.
-    vyzva_uvod = azur + """Zadej styl hry (1 - 3), mrkni na tabulku vítězů (3),
+    vyzva_uvod = azur + """Zadej styl hry (1 - 3), mrkni na tabulku vítězů (4),
 nebo ukonči aplikaci (5), a potvrď klávesou Enter: """ + barvy_reset
     volba = input(vyzva_uvod)
     while volba not in pripustne_volby:         # Kontrola vstupu
